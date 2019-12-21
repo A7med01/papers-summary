@@ -2,7 +2,7 @@
 #
 [image1]: ./2.png "frst"
 [image2]: ./1.png "second "
-[image3]: ./3.jpg "third "
+[image3]: ./3.JPG "third "
 
 
 
