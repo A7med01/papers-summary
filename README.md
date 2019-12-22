@@ -66,5 +66,5 @@ Once images were calibrated, the statistical parameters (such as mean, standard 
 ![alt text][image3]
 
 
-
-
+**Results**
+Healthy and infected skin regions of both orange varieties had different reflectance,find more details in the paper 
